@@ -1,0 +1,17 @@
+C:\Users\voima\source\repos\Mario\Mario\bin\Release\mario.wmv
+C:\Users\voima\source\repos\Mario\Mario\bin\Release\Mario.exe.config
+C:\Users\voima\source\repos\Mario\Mario\bin\Release\Mario.exe
+C:\Users\voima\source\repos\Mario\Mario\bin\Release\Mario.pdb
+C:\Users\voima\source\repos\Mario\Mario\obj\Release\Mario.csproj.AssemblyReference.cache
+C:\Users\voima\source\repos\Mario\Mario\obj\Release\MainWindow.g.cs
+C:\Users\voima\source\repos\Mario\Mario\obj\Release\App.g.cs
+C:\Users\voima\source\repos\Mario\Mario\obj\Release\Mario_Content.g.cs
+C:\Users\voima\source\repos\Mario\Mario\obj\Release\Mario_MarkupCompile.cache
+C:\Users\voima\source\repos\Mario\Mario\obj\Release\Mario_MarkupCompile.lref
+C:\Users\voima\source\repos\Mario\Mario\obj\Release\MainWindow.baml
+C:\Users\voima\source\repos\Mario\Mario\obj\Release\Mario.g.resources
+C:\Users\voima\source\repos\Mario\Mario\obj\Release\Mario.Properties.Resources.resources
+C:\Users\voima\source\repos\Mario\Mario\obj\Release\Mario.csproj.GenerateResource.cache
+C:\Users\voima\source\repos\Mario\Mario\obj\Release\Mario.csproj.CoreCompileInputs.cache
+C:\Users\voima\source\repos\Mario\Mario\obj\Release\Mario.exe
+C:\Users\voima\source\repos\Mario\Mario\obj\Release\Mario.pdb

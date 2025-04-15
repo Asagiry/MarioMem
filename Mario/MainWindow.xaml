@@ -1,0 +1,20 @@
+﻿<Window x:Class="Mario.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Mario"
+        mc:Ignorable="d"
+        Title="MarioJoke" Height="450" Width="597">
+    <Grid Margin="0,0,41,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="138*"/>
+        </Grid.ColumnDefinitions>
+        <MediaElement x:Name="marioMedia" Margin="1,10,-26,6" Source="/mario.wmv" LoadedBehavior="Manual" UnloadedBehavior="Stop" Volume="1" Grid.ColumnSpan="2" Grid.Column="2"/>
+        <Button x:Name="marioStart" Content="marioStart" Margin="22,105,15,114" Click="Button_Click" Grid.Column="3"/>
+
+    </Grid>
+</Window>
